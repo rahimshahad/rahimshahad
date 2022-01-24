@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @rahimshahad
+# 👋 Hi, I’m Abdul-Rahim Shahad
 
 ## Full Stack Web Developer
 I am a full-stack web developer with a background in petroleum engineering and experience working in customer service. Whilst completing my bachelor's degree, I developed an interest in programming after taking a Visual Basic intro class. I particularly excel when working in teams to deliver creative and effective solutions. I have also proven to be adept at learning new technologies as in the past year I have learnt at least 5 new technologies and frameworks. Consequently, I plan to use this knowledge to work in the tech space as a software developer.
